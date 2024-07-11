@@ -16,7 +16,6 @@ To conduct Exploratory Data Analysis (EDA) on the dataset to investigate relatio
 1. Importing the Libraries
 2. Importing the Dataset
 3. Data Understanding
- - Column Definitions
 4. Handling Missing values
 - 4.1. Handling missing values - Dropping
  - 4.2. Handling missing values - Imputing
@@ -31,6 +30,7 @@ To conduct Exploratory Data Analysis (EDA) on the dataset to investigate relatio
 - Merging both the Datasets vertically
 - Objective
 - Data Understanding
+- Column Definitions
 - Handling Missing values - Dropping unnecessary columns
 - Handling Missing values - Imputing the values with most relevant value
 - Feature Engineering - Generate a separate column from the current column
